@@ -1,0 +1,77 @@
+@charset "utf-8";
+.error {
+    box-shadow: 0 0 5px #FF5252;
+    border-color: #FF1744;    
+}
+.topNav a {
+  	color: black;
+  	padding: 1px 12px; 
+  	text-decoration:none;
+  	font-size: 25px;
+	background-color: limegreen;
+	border-radius: 15px;
+}
+.topNav a:hover{
+	background-color: aqua;
+}
+.topNav
+{
+	width: 98%;
+	height: 100%;
+	background-color: forestgreen;
+	padding: 10px;
+	border-radius: 100px
+}
+
+body
+{
+	align-content: center;
+	text-align: center;
+	background-color: slategrey;
+}
+
+.title	{
+	padding: 10px;
+}
+
+.food
+{
+
+}
+.meat
+{
+	margin: 30px;
+	background-color: darkseagreen;
+	padding: 15px;
+	border-radius: 40px;
+	border-left: 4px solid green;
+	border-bottom: 10px solid green;
+}
+
+.btn
+{
+	background-color: springgreen;
+	border-radius: 10px;
+}
+.btn:hover
+{
+	background-color: aqua;
+}
+
+
+img
+{
+	border-radius: 10px;
+}
+
+footer p{
+
+	background-color: forestgreen;
+	border-radius: 10px;
+}
+label{
+	font-size: 25px;
+}
+input{
+	border-radius: 10px;
+}
